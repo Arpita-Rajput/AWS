@@ -1,5 +1,5 @@
 # AWS
-##1 . Practical 1: Creation of AWS user
+## 1 . Practical 1: Creation of AWS user
 Go to the AWS website (aws.amazon.com).
 
 Click on the "Create an AWS Account" button.
