@@ -1,5 +1,5 @@
 # AWS
-1 . Practical 1: Creation of AWS user
+##1 . Practical 1: Creation of AWS user
 Go to the AWS website (aws.amazon.com).
 
 Click on the "Create an AWS Account" button.
@@ -24,7 +24,7 @@ After receiving the confirmation email, your account will be activated.
 
 _____________________________________________________________________________________
 
-Practical 2: Creation of AWS Compute Ubuntu & Windows Instance and Connect it using SSH&RDP Client
+## Practical 2: Creation of AWS Compute Ubuntu & Windows Instance and Connect it using SSH&RDP Client
 
 Steps to do practical:
 
@@ -68,7 +68,7 @@ RDP is the go-to method for connecting to Windows instances.
 
 ______________________________________________________________________________________________
 
-Practical 3: Create an S3 bucket and Configure bucket policies, versioning, and encryption. Upload and download objects to/from the S3 bucket.
+## Practical 3: Create an S3 bucket and Configure bucket policies, versioning, and encryption. Upload and download objects to/from the S3 bucket.
 
 
 Steps: 
@@ -118,7 +118,7 @@ Select your bucket.
 Click "Delete" and confirm by typing the bucket name.
 _____________________________________________________________________________________________________________
 
-Practical 4: Creating an Application using AWS Bean Stalk
+## Practical 4: Creating an Application using AWS Bean Stalk
 
 1. 'Open the AWS Management Console':
    - Search for Elastic Beanstalk.
@@ -177,7 +177,7 @@ Practical 4: Creating an Application using AWS Bean Stalk
 
 _________________________________________________________________________________________________________________________________
 
-Pratical 5: Static Website Hosting using AWS EC2
+## Pratical 5: Static Website Hosting using AWS EC2
 
 Steps to follow , as well as check the attachment also for Step by step visual guidance
 1. Create an EC2 instance(Amazon Linux)- 
@@ -202,7 +202,7 @@ Steps to follow , as well as check the attachment also for Step by step visual g
 
 _____________________________________________________________________________
 
-Practical 6: Creation of Instance and EBS volume and attaching with the instance.
+## Practical 6: Creation of Instance and EBS volume and attaching with the instance.
 
 Creation of Instance and EBS volume and attaching with the instance.(Follow the Document step by step guide)
 Step1: Login into the instance
@@ -226,7 +226,7 @@ Step 10 Settings in attach volume
 Upto this step, we have created the volume(EBS) and attached it in Instance.
 Mounting the EBS into the instance new directory:
 
-Now we will see the steps to mount the volume into instance,
+### Now we will see the steps to mount the volume into instance,
 
 Step1: Goto instance Dashboard, click connect.
 Step2: after clicking the connect , you will get the terminal access of your instance.
@@ -259,16 +259,16 @@ After this please delete Volume, and Instance from your AWS Login.
 
 ______________________________________________________________________________________________________________________________________________
 
-Practical _7a+7b:- Create a REST API by importing +Creation of REst API with Lambda Function
+## Practical _7a+7b:- Create a REST API by importing +Creation of REst API with Lambda Function
 
 
-For 7.a: Create a REST API by importing an example - Amazon API Gateway
+### For 7.a: Create a REST API by importing an example - Amazon API Gateway
 
 Use the Amazon API Gateway console to create and test a simple REST API with HTTP integration for a PetStore website.
 After loading the API definition into API Gateway, you can use the API Gateway console to examine the API's basic structure or simply deploy and test the API.
 Follow the 15 steps in the given link. You can also create your own API, test it, and deploy it.
 
-For 7.b: Create a REST API with a Lambda proxy integration - Amazon API Gateway
+### For 7.b: Create a REST API with a Lambda proxy integration - Amazon API Gateway
 
 Create a "Hello, World!" Lambda function.
 Create a "Hello, World!" API.
